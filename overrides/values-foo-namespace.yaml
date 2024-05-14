@@ -1,0 +1,5 @@
+clusterGroup:
+  namespaces:
+    foo:
+      operatorGroup: true
+
